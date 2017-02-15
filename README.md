@@ -5,10 +5,10 @@ View Pager for Android simple and easy to use, compatible with API 16+(Android 4
 ##Features
 
  - Any ViewGroup based View can be use as Container
- - Swipe Right and Left to swtich page
- - Programmatically switch page by Next and Previous methods
+ - Swipe Right and Left to swtich pages
+ - Programmatically switch pages
  - Pages change cyclically
- - Auto Created Page Dots
+ - Auto Created PageDots
  - Customize style For Active PageDot and Deactive PageDosts
  --Radius and Color
 
