@@ -4,13 +4,11 @@ View Pager for Android simple and easy to use, compatible with API 16+(Android 4
 
 ##Features
 
- - Created by Muharrem Uğurelli on 15.02.2017.
- - SimpleViewPager
- - To easily switch between containers
- - Swipe Right and Left
- - Programmatically switch by Next and Previous methods
- - If Swipe Left(next) on last then SimpleViewPager switch to first containers
- - If Swipe Right(previous) on first then SimpleViewPager switch to last containers
+ - Any ViewGroup based View can be use as Container
+ - Swipe Right and Left to swtich page
+ - Programmatically switch page by Next and Previous methods
+ - Pages change cyclically
+ - Auto Created Page Dots
  - Customize style For Active PageDot and Deactive PageDosts
  --Radius and Color
 
