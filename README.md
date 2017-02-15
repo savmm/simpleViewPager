@@ -10,7 +10,7 @@ View Pager for Android simple and easy to use, compatible with API 16+(Android 4
  - Pages change cyclically
  - Auto Created PageDots
  - Customize style For Active PageDot and Deactive PageDosts
- --Radius and Color
+ - Customize PageDots location
 
 
 
