@@ -14,9 +14,9 @@ View Pager for Android simple and easy to use, compatible with API 16+(Android 4
 
 
 ##Screens and Demos
-![image](screenshots/screen11.png = 100x20)
+![image](screenshots/screen11.png = 250x)
 
-![image](screenshots/screen22.png = 100x20)
+![image](screenshots/screen22.png = 250x)
 
 
 
